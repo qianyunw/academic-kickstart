@@ -9,9 +9,9 @@ primary = "hsl(339, 90%, 68%)"
 
 # Menu
 menu_primary = "hsl(339, 90%, 68%)"
-menu_text = "#fff"
+menu_text = "#000"
 menu_text_active = "hsl(339, 90%, 68%)"
-menu_title = "#fff"
+menu_title = "#000"
 
 # Home sections
 home_section_odd = "#fff"

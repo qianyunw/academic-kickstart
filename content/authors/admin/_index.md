@@ -68,6 +68,6 @@ I am Qianyun Wang. I am a master student at Institute of Computing Technology, C
 
 Currently, I am a research student at Human motion Research Group at ICT, CAS advised by Prof. Shihong Xia.
 
-Before that, I interned in , supervised by Dr. Chengzhu Yu. I conducted my undergraduate thesis in at Beijing Normal University, under the supervision of Prof. Rongfang Bie. I also have serveral , including projects in BNU ,under the supervision of Prof. Zhongjun Zhang.
+Before that, I interned in , supervised by Dr. Chengzhu Yu[text](https://sites.google.com/site/chengzhuyu0/home). I conducted my undergraduate thesis in at Beijing Normal University, under the supervision of Prof. Rongfang Bie. I also have serveral , including projects in BNU ,under the supervision of Prof. Zhongjun Zhang.
 
 Here is my resume. Please feel free to contact me.

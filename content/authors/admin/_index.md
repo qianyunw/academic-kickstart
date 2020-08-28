@@ -64,10 +64,10 @@ user_groups:
 - Visitors
 ---
 
-I am Qianyun Wang. I am a master student at [Institute of Computing Technology](http://english.ict.cas.cn/), [Chinese Academy of Sciences](http://english.cas.cn/). I received the B.Sc. degree in Computer Science and Technology from [Beijing Normal University](https://english.bnu.edu.cn/).
+I am Qianyun Wang. I am a master student at [Institute of Computing Technology](http://english.ict.cas.cn/), [Chinese Academy of Sciences](http://english.cas.cn/). I received the B.Sc. degree in Computer Science and Technology from [Beijing Normal University (BNU)](https://english.bnu.edu.cn/).
 
 Currently, I am a research student at [Human motion Research Group](http://humanmotion.ict.ac.cn/en/index.html)  advised by [Prof. Shihong Xia](http://humanmotion.ict.ac.cn/en/people/xiashihong.html).
 
-Before that, I interned in [Tencent Lightspeed & Quantum Studios](https://guangzi.qq.com/), supervised by [Dr. Chengzhu Yu](https://sites.google.com/site/chengzhuyu0/home). Before that, I interned in [Elite Robot Vision Group](https://www.elibot.cn/en/#/). Before that, I conducted my undergraduate thesis at [Big Data Mining & Knowledge Engineering](http://bigdata.bnu.edu.cn/), under the supervision of [Prof. Rongfang Bie](https://ai.bnu.edu.cn/xygk/szdw/zgj/548.html).
+Before that, I interned in [Tencent Lightspeed & Quantum Studios](https://guangzi.qq.com/), supervised by [Dr. Chengzhu Yu](https://sites.google.com/site/chengzhuyu0/home). Before that, I interned in [Elite Robot Vision Group](https://www.elibot.cn/en/#/). Before that, I conducted my undergraduate thesis in [Big Data Group](http://bigdata.bnu.edu.cn/) at BNU, under the supervision of [Prof. Rongfang Bie](https://ai.bnu.edu.cn/xygk/szdw/zgj/548.html).
 
 Here is my [resume](resume.pdf). Please feel free to contact me.

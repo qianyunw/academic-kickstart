@@ -14,28 +14,25 @@ role: MS student of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chinese Academy of Sciences
+- name: Institute of Computing Technology, Chinese Academy of Sciences
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computer Graphics, Speech Animation and Machine Learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Graphics
+- Speech Animation
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Eng. in Computer Science and Technology
+    institution: Institute of Computing Technology, Chinese Academy of Sciences
+    year: 2018-Present
+  - course: B.Sc. in Computer Science and Technology
+    institution: Beijing Normal University
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,7 +50,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jyjc
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am Qianyun Wang. I am a master student at Institute of Computing Technology, Chinese Academy of Sciences. I received the B.Sc. degree in Computer Science and Technology from Beijing Normal University.
+Currently, I am a research student at ICT, CAS advised by Prof. Shihong Xia.
+Before that, I conducted my undergraduate thesis in at , under the supervision of Prof. Rongfang Bie. Before that, I interned in .
+Here is my resume. Please feel free to contact me.

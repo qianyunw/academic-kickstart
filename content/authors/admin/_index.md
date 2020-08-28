@@ -70,4 +70,4 @@ Currently, I am a research student at [Human motion Research Group](http://human
 
 Before that, I interned in [Tencent Lightspeed & Quantum Studios](https://guangzi.qq.com/), supervised by [Dr. Chengzhu Yu](https://sites.google.com/site/chengzhuyu0/home). Before that, I interned in [Elite Robot Vision Group](https://www.elibot.cn/en/#/). Before that, I conducted my undergraduate thesis at [Big Data Mining & Knowledge Engineering](http://bigdata.bnu.edu.cn/), under the supervision of [Prof. Rongfang Bie](https://ai.bnu.edu.cn/xygk/szdw/zgj/548.html).
 
-Here is my resume. Please feel free to contact me.
+Here is my [resume](resume.pdf). Please feel free to contact me.

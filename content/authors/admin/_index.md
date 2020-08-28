@@ -42,9 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "wangqianyun@ict.ac.cn".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/jyjc
@@ -66,7 +66,8 @@ user_groups:
 
 I am Qianyun Wang. I am a master student at Institute of Computing Technology, Chinese Academy of Sciences. I received the B.Sc. degree in Computer Science and Technology from Beijing Normal University.
 
-Currently, I am a research student at ICT, CAS advised by Prof. Shihong Xia.
+Currently, I am a research student at Human motion Research Group at ICT, CAS advised by Prof. Shihong Xia.
 
-Before that, I conducted my undergraduate thesis in at , under the supervision of Prof. Rongfang Bie. Before that, I interned in .
+Before that, I interned in , supervised by Dr. Chengzhu Yu. I conducted my undergraduate thesis in at Beijing Normal University, under the supervision of Prof. Rongfang Bie. I also have serveral , including projects in BNU ,under the supervision of Prof. Zhongjun Zhang.
+
 Here is my resume. Please feel free to contact me.

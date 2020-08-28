@@ -64,10 +64,10 @@ user_groups:
 - Visitors
 ---
 
-I am Qianyun Wang. I am a master student at Institute of Computing Technology, Chinese Academy of Sciences. I received the B.Sc. degree in Computer Science and Technology from Beijing Normal University.
+I am Qianyun Wang. I am a master student at [Institute of Computing Technology](http://english.ict.cas.cn/), [Chinese Academy of Sciences](http://english.cas.cn/). I received the B.Sc. degree in Computer Science and Technology from [Beijing Normal University](https://english.bnu.edu.cn/).
 
-Currently, I am a research student at Human motion Research Group at ICT, CAS advised by Prof. Shihong Xia.
+Currently, I am a research student at [Human motion Research Group](http://humanmotion.ict.ac.cn/en/index.html)  advised by [Prof. Shihong Xia](http://humanmotion.ict.ac.cn/en/people/xiashihong.html).
 
-Before that, I interned in , supervised by Dr. Chengzhu Yu[text](https://sites.google.com/site/chengzhuyu0/home). I conducted my undergraduate thesis in at Beijing Normal University, under the supervision of Prof. Rongfang Bie. I also have serveral , including projects in BNU ,under the supervision of Prof. Zhongjun Zhang.
+Before that, I interned in , supervised by [Dr. Chengzhu Yu](https://sites.google.com/site/chengzhuyu0/home). I conducted my undergraduate thesis at [Big Data Mining & Knowledge Engineering](http://bigdata.bnu.edu.cn/), under the supervision of [Prof. Rongfang Bie](https://ai.bnu.edu.cn/xygk/szdw/zgj/548.html). I also have serveral porject, including EduMap projects.
 
 Here is my resume. Please feel free to contact me.

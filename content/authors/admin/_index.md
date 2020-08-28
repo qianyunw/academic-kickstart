@@ -68,6 +68,6 @@ I am Qianyun Wang. I am a master student at [Institute of Computing Technology](
 
 Currently, I am a research student at [Human motion Research Group](http://humanmotion.ict.ac.cn/en/index.html)  advised by [Prof. Shihong Xia](http://humanmotion.ict.ac.cn/en/people/xiashihong.html).
 
-Before that, I interned in , supervised by [Dr. Chengzhu Yu](https://sites.google.com/site/chengzhuyu0/home). I conducted my undergraduate thesis at [Big Data Mining & Knowledge Engineering](http://bigdata.bnu.edu.cn/), under the supervision of [Prof. Rongfang Bie](https://ai.bnu.edu.cn/xygk/szdw/zgj/548.html). I also have serveral porject, including EduMap projects.
+Before that, I interned in , supervised by [Dr. Chengzhu Yu](https://sites.google.com/site/chengzhuyu0/home). I conducted my undergraduate thesis at [Big Data Mining & Knowledge Engineering](http://bigdata.bnu.edu.cn/), under the supervision of [Prof. Rongfang Bie](https://ai.bnu.edu.cn/xygk/szdw/zgj/548.html).
 
 Here is my resume. Please feel free to contact me.

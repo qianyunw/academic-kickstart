@@ -65,6 +65,8 @@ user_groups:
 ---
 
 I am Qianyun Wang. I am a master student at Institute of Computing Technology, Chinese Academy of Sciences. I received the B.Sc. degree in Computer Science and Technology from Beijing Normal University.
+
 Currently, I am a research student at ICT, CAS advised by Prof. Shihong Xia.
+
 Before that, I conducted my undergraduate thesis in at , under the supervision of Prof. Rongfang Bie. Before that, I interned in .
 Here is my resume. Please feel free to contact me.
